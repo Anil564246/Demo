@@ -45,3 +45,4 @@ Cloning a repositury on our local machine-->
   <!-- init cmd: used to create a new git repo -->
   <!-- cd .. cmd: used to get out from the repository -->
   <!-- mkdir cmd:is usedto make new directory -->
+  # teacher
