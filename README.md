@@ -2,7 +2,7 @@
 This is my first Git Repository
 <br>
 Anil prajapati
-Galgotia college of Engineering and technology
+Galgotia college of Engineering and technology.
 <br>
 @GCET
 <!-- git --version -->
